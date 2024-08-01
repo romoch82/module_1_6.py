@@ -1,8 +1,8 @@
 my_dict = {"roman": 1982, "dima": 2009}
 print(my_dict)
 print(my_dict["roman"])
-my_dict["lena"] = 1986
-my_dict["max"] = 1981
+print(my_dict.get("sasha")
+my_dict.update({"lena": 1986 "max": 1981})
 del my_dict["dima"]
 print(my_dict)
 
